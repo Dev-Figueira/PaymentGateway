@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\PaymentGateway.CrossCutting\PaymentGateway.CrossCutting.csproj" />
+    <ProjectReference Include="..\PaymentGateway.CrossCutting\PaymentGateway.CrossCutting.csproj" />
     <ProjectReference Include="..\PaymentGateway.Application\PaymentGateway.Application.csproj" />
   </ItemGroup>
 
